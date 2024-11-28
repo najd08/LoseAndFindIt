@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38803718133",
+    "project_id": "lab7-mq7uns",
+    "storage_bucket": "lab7-mq7uns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38803718133:android:eb8bb7fa84196931376abc",
+        "android_client_info": {
+          "package_name": "com.mycompany.lab7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNjmAmvnbvXfkOLCzsnwx7YxEEQ6v7yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38803718133:android:823b12d7d1fad08c376abc",
+        "android_client_info": {
+          "package_name": "com.mycompany.loseandfindit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNjmAmvnbvXfkOLCzsnwx7YxEEQ6v7yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
